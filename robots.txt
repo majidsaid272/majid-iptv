@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://majidsaid272.github.io/majid-iptv/sitemap.xml
